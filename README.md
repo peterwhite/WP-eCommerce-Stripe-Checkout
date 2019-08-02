@@ -96,15 +96,3 @@ Stuck? Need help? Get in touch - happy to answer your questions.
 9. Under 'Signing Secret', click 'Click to Reveal' and copy it.
 10. Copy the secret key into the 'Stripe Checkout Payment Gateway' settings, in the Webhooks field
 11. Save and activate the payment method.
-
-
-
-**Why buy from us?**
-
-- High quality plugin with regular updates
-
-- Support available - get in touch with any questions
-
-- Installation support available at additional charge 
-
-  
