@@ -2,7 +2,7 @@
 
 **Evaluation Version** 
 
-This plugin is freely available on GitHub for developers to test. However, that if you do end up using our plugin on a production website, be sure to purchase a license for it here. 
+This plugin is freely available on GitHub for developers to test. However, that if you do end up using our plugin on a production website, [be sure to purchase a license for it here](https://gum.co/stripeWPeC). 
 
 Transactions processed with this evaluation version will not fully complete and a 'evaluation only' message will display to customers.
 
