@@ -12,6 +12,8 @@ Add Stripe Checkout to your WP eCommerce website with just a few clicks.
 
 Stripe Checkout is a smart and secure payment page designed to work beautifully on all devices. 
 
+![img](https://i.imgur.com/McYmfpc.gif)
+
 **Why use Stripe Checkout plugin?**
 
 - **Modern Design:** Upgrade your WP eCommerce checkout with a responsive modern design which looks beautiful everywhere. iPhone and Mac users can pay faster with Apple Pay with Google Pay coming soon.
@@ -20,12 +22,6 @@ Stripe Checkout is a smart and secure payment page designed to work beautifully 
 - **Secure**:  This is the <u>only</u> Stripe WP eCommerce plugin fully ready for [Strong Customer Authentication](https://stripe.com/docs/strong-customer-authentication) (SCA) and has full [Dynamic 3D Secure](https://stripe.com/docs/payments/3d-secure#three-ds-radar) support.
 - **International Support:** Supports 14 languages and payment methods across the world.
 - **Updated:** Stripe constantly updates their checkout pages to add new functionality and security.
-
-
-
-![img](https://i.imgur.com/McYmfpc.gif)
-
-
 
 **Features List:**
 
