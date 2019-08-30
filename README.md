@@ -4,7 +4,7 @@
 
 This plugin is freely available on GitHub for developers to test. However, that if you do end up using our plugin on a production website, [be sure to purchase a license for it here](https://gum.co/stripeWPeC). 
 
-Transactions processed with this evaluation version will not fully complete and a 'evaluation only' message will display to customers.
+Transactions processed with this evaluation version will not fully complete and a 'evaluation only' message will display to customers. IPNs/webhooks will not work on the evaluation version, but are fully supported on the paid version.
 
 ### Stripe Checkout for WP eCommerce
 
