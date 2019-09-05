@@ -426,6 +426,18 @@ class WPSC_Payment_Gateway_Stripecheckout extends WPSC_Payment_Gateway {
 								'currency' => $currency_code,
 								'images' => [$product_image]);
 		}	
+
+		$shippingcost = $order->shipping();
+		$shipping = preg_replace("/[^0-9]/", "", $shippingcost);
+
+		if($shipping != 0){
+			array_push($cart_items, 
+						array('name' => "Shipping", 
+						'amount' => $shipping,	// price always in cents
+						'currency' => $currency_code
+					)
+			);
+		};
 				
 		$location = add_query_arg( array(
 			'payment_gateway'          => 'stripecheckout',
