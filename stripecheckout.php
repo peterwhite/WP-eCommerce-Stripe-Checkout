@@ -434,6 +434,7 @@ class WPSC_Payment_Gateway_Stripecheckout extends WPSC_Payment_Gateway {
 			array_push($cart_items, 
 						array('name' => "Shipping", 
 						'amount' => $shipping,	// price always in cents
+						'quantity' => 1,
 						'currency' => $currency_code
 					)
 			);
